@@ -87,6 +87,14 @@
  }
 
  @media (max-width:460px){
+   .container{
+      max-width: 400px;
+    }
+   
+    .apply-box{
+      max-width: 350px;
+    }
+
    .textarea-control{
       grid-column: 1/span 1;
     }
